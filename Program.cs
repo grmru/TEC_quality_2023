@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TEC.Exmple.One
+namespace TEC.Example.One
 {
     class Program
     {
