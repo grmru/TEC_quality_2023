@@ -43,3 +43,22 @@
 
 ![Logo](https://tecspo.ru/bitrix/templates/simai.college/images/TEK_logo1.png)
 
+<https://www.markdownguide.org>
+
+<fake@example.com>
+
+
+### Таблица
+
+
+|123|123|
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
+
+
