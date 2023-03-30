@@ -41,3 +41,5 @@
   - [x] Пунк списка
   - [ ] Пунк списка
 
+![Logo](https://tecspo.ru/bitrix/templates/simai.college/images/TEK_logo1.png)
+
